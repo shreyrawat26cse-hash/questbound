@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.vercel/
+.openai/
+.publish/
+.npm-cache/
+playwright-report/
+test-results/
+previews/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+questbound-deploy.zip
