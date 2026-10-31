@@ -1,0 +1,13 @@
+Sequences and Series
+
+Q1: Find the next term: 3, 7, 11, 15, ...
+Answer: 19
+Hint: Add the common difference, 4.
+
+Q2: An AP has first term 5 and common difference 3. Find its 10th term.
+Answer: 32
+Hint: Use a_n = a + (n - 1)d.
+
+Q3: Find the sum of the first 20 positive integers.
+Answer: 210
+Hint: Use n(n + 1)/2.

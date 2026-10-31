@@ -1,0 +1,5 @@
+{
+  "compilerOptions": { "target": "ES2022", "lib": ["ES2022", "DOM", "DOM.Iterable"], "module": "ESNext", "moduleResolution": "Bundler", "strict": true, "noEmit": true, "skipLibCheck": true, "esModuleInterop": true },
+  "include": ["src/vite-env.d.ts","src/main.ts", "src/landing.ts", "src/quest-editor.ts", "src/assignments.ts", "src/scenes/QuestDungeon.ts", "src/anims/CharacterAnims.ts", "src/anims/EnemyAnims.ts"]
+}
+

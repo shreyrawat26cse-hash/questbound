@@ -1,0 +1,3 @@
+question,answer,level_name,hint
+"Find the next term: 3, 7, 11, 15",19,The First Gate,Add 4
+"Find the sum 1 + 2 + ... + 20",210,The Sumkeeper,Use n(n+1)/2
